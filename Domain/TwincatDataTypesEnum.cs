@@ -1,0 +1,38 @@
+﻿namespace Domain
+{
+    public enum TwincatDataTypes
+    {
+        __UXINT,
+        __XINT,
+        __XWORD,
+        BIT,
+        BOOL,
+        BYTE,
+        DATE,
+        DATE_AND_TIME,
+        DINT,
+        DT,
+        DWORD,
+        INT,
+        LDATE,
+        LDATE_AND_TIME,
+        LDT,
+        LINT,
+        LREAL,
+        LTIME,
+        LTOD,
+        LWORD,
+        REAL,
+        SINT,
+        STRING,
+        TIME,
+        TOD,
+        TIME_OF_DAY,
+        UDINT,
+        UINT,
+        ULINT,
+        USINT,
+        WORD,
+        WSTRING
+    }
+}
